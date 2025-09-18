@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Comment=
+Exec=xblankwindow
+Name=Blank Window
+NoDisplay=false
+Path=/usr/local/bin/
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
