@@ -19,7 +19,7 @@ xblankwindow
 Options:
 
 -t set window title<br>
--c set color (AARRGGBB)<br>
+-c set color (expects pre-multiplied alpha)<br>
 e.g. xblankwindow -t "Hello" -c AA2211FF
 
 <br>
